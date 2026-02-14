@@ -52,7 +52,7 @@ Given the class imbalance, the models were evaluated primarily on **Recall** and
 * **Language**: Python 🐍
 * **Data Handling**: `Pandas`, `NumPy`
 * **Visualization**: `Matplotlib`, `Seaborn`
-* **Machine Learning**: `Scikit-learn`, `XGBoost`,'Logistic Learning','Random Forest"
+* **Machine Learning**: `Scikit-learn`, `XGBoost`,`Logistic Regression`, `Random Forest`
 
 ---
 
