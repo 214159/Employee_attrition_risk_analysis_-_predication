@@ -46,7 +46,7 @@ Given the class imbalance, the models were evaluated primarily on **Recall** and
 * **Random Forest** achieved perfect precision (1.00) but failed on recall (0.13), meaning it missed 87% of employees who actually left.
 * **Metric Focus**: Accuracy is ignored as a success metric here because the "Stayed" class dominates the data.
 
----
+--
 
 ## 🛠️ Tech Stack
 * **Language**: Python 🐍
